@@ -21,10 +21,10 @@ scipy
 pandas
 matplotlib
 scikit-learn
-scikit-bio
+#scikit-bio
 xlrd
 openpyxl
 
 # plot
-
+plotly
 
