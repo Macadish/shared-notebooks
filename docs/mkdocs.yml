@@ -1,0 +1,22 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - Misc:
+      - Example 1: misc/eg1.md
+      - misc/eg2.md
+      - misc/guide.md
+theme: readthedocs
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
+    - attr_list
+    - mdx_math:
+        enable_dollar_delimiter: True
+    - sane_lists
+    - admonition

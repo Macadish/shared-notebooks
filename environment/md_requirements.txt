@@ -1,0 +1,11 @@
+markdown
+markdown-include
+mkdocs
+ipykernel
+ipython
+jupyter
+jupyter-console
+python-markdown-math
+numpy
+matplotlib
+scipy
