@@ -25,4 +25,6 @@ scikit-bio
 xlrd
 openpyxl
 
-
+# plot
+plotly
+chart_studio
